@@ -24,6 +24,7 @@ function App() {
           
         </p>
       </div>
+      <h1>This is Team A</h1>
     </>
   );
 }
