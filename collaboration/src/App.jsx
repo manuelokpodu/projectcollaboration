@@ -6,7 +6,7 @@ import "./App.css";
 function App() {
   return (
     <>
-      <h1>This is Team B</h1>
+      <h1>This is Team A</h1>
       <p>We are working on a project called "TOETALLY"</p>
 
       <div>
@@ -25,6 +25,13 @@ function App() {
         </p>
       </div>
       <h1>This is Team A</h1>
+
+      <section>
+      <h2>
+        Hello, my name is Iyiola
+      </h2>
+      <p>I am excited to be a part of this project and a member of team A </p>
+      </section>
     </>
   );
 }
