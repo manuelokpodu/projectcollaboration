@@ -16,6 +16,14 @@ function App() {
         similique facilis, eius alias porro sequi at blanditiis laudantium. Ea,
         ratione ducimus!
       </div>
+
+      <div>
+        <p>
+          I added this paragraph after adding the development branch Lorem ipsum
+          dolor sit amet consectetur adipisicing elit. Necessitatibus commodi
+          
+        </p>
+      </div>
     </>
   );
 }
